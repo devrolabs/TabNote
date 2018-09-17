@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TabNote</title>
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="bootstrap-colorpicker.min.css">
+    <script src="jquery-3.3.1.min.js"></script>
+    <script src="popup.js"></script>
+    <script src="bootstrap-colorpicker.min.js"></script>
+</head>
+<body>
+    <h4 class="text-center">TabNote</h4>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="family">Font Family </label>
+                <select class="form-control" id="family">
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                </select>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="size">Font Size </label>
+                <select class="form-control" id="size">
+                    <option>8</option>
+                    <option>9</option>
+                    <option>10</option>
+                    <option>11</option>
+                    <option>12</option>
+                    <option selected="selected">14</option>
+                    <option>16</option>
+                    <option>18</option>
+                    <option>20</option>
+                    <option>22</option>
+                    <option>24</option>
+                    <option>26</option>
+                    <option>28</option>
+                    <option>32</option>
+                    <option>48</option>
+                    <option>72</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="color">Font Color </label><input id="color" type="text" class="form-control simple-color-picker" value="#000000"/>
+    </div>
+    <div class="form-group">
+        <label for="bg-color">Background Color </label><input id="bg-color" type="text" class="form-control simple-color-picker" value="#ffffff"/>
+    </div>
+    <div class="form-group">
+        <input type="checkbox" id="bold"><label for="bold"> Bold </label>
+    </div>
+    <div class="form-group">
+        <input type="checkbox" id="spell"><label for="spell"> Spell Checker </label>
+    </div>
+    <button id="trigger" class="btn btn-sm btn-success">Open TabNote</button>
+    <p class="text-center" id="footer">Made with <span style="color: #e25555;">&hearts;</span> by <span id="devro">Devro LABS</span></p>
+</body>
+</html>

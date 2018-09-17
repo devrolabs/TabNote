@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+body {
+    padding: 10px 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#devro {
+    cursor: pointer;
+    color: #b97a46;
+}
+
+#footer {
+    padding-top: 10px;
+    margin: 0;
+}
