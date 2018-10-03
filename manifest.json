@@ -2,8 +2,8 @@
   "manifest_version": 2,
   "name": "TabNote",
   "short_name": "TabNote",
-  "description": "use your Browser as your Notepad, take notes while you are browsing.",
-  "version": "0.0.0.1",
+  "description": "use your Browser as your Notepad, take notes while you are browsing",
+  "version": "0.1.6.3",
   "background": {
     "scripts": ["jquery-3.3.1.min.js", "background.js"],
     "persistent": false
