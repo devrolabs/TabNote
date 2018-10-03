@@ -2,7 +2,7 @@ chrome.browserAction.onClicked.addListener(function(tab) {
 
     if (!localStorage.getItem('customized')) {
         localStorage.setItem('family', 'Arial');
-        localStorage.setItem('size', '16');
+        localStorage.setItem('size', '20');
         localStorage.setItem('color', '#000000');
         localStorage.setItem('bg_color', '#ffffff');
         localStorage.setItem('bold', 'normal');

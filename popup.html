@@ -11,67 +11,69 @@
     <script src="bootstrap-colorpicker.min.js"></script>
 </head>
 <body>
-    <h4 class="text-center" style="color: #2E4A62"><img src="images/icon26.png" alt="TabNote"> TabNote </h4>
-    <div class="form-group">
-        <label for="family">Font Family </label>
-        <select class="form-control" id="family">
-            <option selected="selected">Arial</option>
-            <option>Helvetica</option>
-            <option>Times New Roman</option>
-            <option>Times</option>
-            <option>Courier New</option>
-            <option>Courier</option>
-            <option>Verdana</option>
-            <option>Georgia</option>
-            <option>Palatino</option>
-            <option>Garamond</option>
-            <option>Bookman</option>
-            <option>Comic Sans MS</option>
-            <option>Trebuchet MS</option>
-            <option>Arial Black</option>
-            <option>Impact</option>
-            <option>Calibri</option>
-        </select>
+    <div class="container" id="content">
+        <h4 class="text-center" style="color: #2E4A62"><img src="images/icon26.png" alt="TabNote"> TabNote </h4>
+        <div class="form-group">
+            <label for="family">Font Family </label>
+            <select class="form-control" id="family">
+                <option selected="selected">Arial</option>
+                <option>Helvetica</option>
+                <option>Times New Roman</option>
+                <option>Times</option>
+                <option>Courier New</option>
+                <option>Courier</option>
+                <option>Verdana</option>
+                <option>Georgia</option>
+                <option>Palatino</option>
+                <option>Garamond</option>
+                <option>Bookman</option>
+                <option>Comic Sans MS</option>
+                <option>Trebuchet MS</option>
+                <option>Arial Black</option>
+                <option>Impact</option>
+                <option>Calibri</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="size">Font Size </label>
+            <select class="form-control" id="size">
+                <option>18</option>
+                <option>19</option>
+                <option selected="selected">20</option>
+                <option>24</option>
+                <option>22</option>
+                <option>24</option>
+                <option>26</option>
+                <option>28</option>
+                <option>32</option>
+                <option>36</option>
+                <option>40</option>
+                <option>48</option>
+                <option>56</option>
+                <option>72</option>
+                <option>88</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="color">Font Color </label><input id="color" type="text" class="form-control simple-color-picker" value="#000000"/>
+        </div>
+        <div class="form-group">
+            <label for="bg-color">Background Color </label><input id="bg-color" type="text" class="form-control simple-color-picker" value="#ffffff"/>
+        </div>
+        <div class="form-group">
+            <label for="bold"> Bold </label>
+            <select class="form-control" id="bold">
+                <option selected="selected">normal</option>
+                <option>bold</option>
+                <option>bolder</option>
+                <option>lighter</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <input type="checkbox" id="spell"> <label for="spell"> Spell Checker </label>
+        </div>
+        <button id="open" class="btn btn-sm btn-success">Save Options</button>
+        <p class="text-center" id="footer">Made with <span style="color: #e25555;">&hearts;</span> by <span id="devro">Devro LABS</span></p>
     </div>
-    <div class="form-group">
-        <label for="size">Font Size </label>
-        <select class="form-control" id="size">
-            <option>14</option>
-            <option>15</option>
-            <option selected="selected">16</option>
-            <option>17</option>
-            <option>18</option>
-            <option>20</option>
-            <option>22</option>
-            <option>24</option>
-            <option>26</option>
-            <option>28</option>
-            <option>32</option>
-            <option>36</option>
-            <option>40</option>
-            <option>48</option>
-            <option>72</option>
-        </select>
-    </div>
-    <div class="form-group">
-        <label for="color">Font Color </label><input id="color" type="text" class="form-control simple-color-picker" value="#000000"/>
-    </div>
-    <div class="form-group">
-        <label for="bg-color">Background Color </label><input id="bg-color" type="text" class="form-control simple-color-picker" value="#ffffff"/>
-    </div>
-    <div class="form-group">
-        <label for="bold"> Bold </label>
-        <select class="form-control" id="bold">
-            <option selected="selected">normal</option>
-            <option>bold</option>
-            <option>bolder</option>
-            <option>lighter</option>
-        </select>
-    </div>
-    <div class="form-group">
-        <input type="checkbox" id="spell"> <label for="spell"> Spell Checker </label>
-    </div>
-    <button id="open" class="btn btn-sm btn-success">Save Options</button>
-    <p class="text-center" id="footer">Made with <span style="color: #e25555;">&hearts;</span> by <span id="devro">Devro LABS</span></p>
 </body>
 </html>
