@@ -2,7 +2,7 @@
 
 ### use your Browser as your Notepad, take notes while you are browsing
 
-[![alt text](https://www.printix.net/wp-content/uploads/2018/05/ChromeWebStore_Badge_v2_496x150.png "TabNote")](https://chrome.google.com/webstore/detail/tabnote/geahanokafgmnleflfpekpmnkceehifk?hl=en)
+[![alt text](https://github.com/devrolabs/TabNote/blob/master/images/ChromeWebStore_Badge.png "TabNote")](https://chrome.google.com/webstore/detail/tabnote/geahanokafgmnleflfpekpmnkceehifk?hl=en)
 
 ---
 
