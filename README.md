@@ -1,4 +1,4 @@
-# [TabNote](https://chrome.google.com/webstore/detail/tabnote/geahanokafgmnleflfpekpmnkceehifk?hl=en)
+# [TabNote](https://chrome.google.com/webstore/detail/tabnote/geahanokafgmnleflfpekpmnkceehifk?hl=en) 📄✏️
 
 ### use your Browser as your Notepad, take notes while you are browsing
 ---
