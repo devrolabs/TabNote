@@ -15,5 +15,5 @@ From now on for notepad, you don't have to go anywhere, convert your browser int
 
 #### Take notes while you are browsing with [TabNote](https://chrome.google.com/webstore/detail/tabnote/geahanokafgmnleflfpekpmnkceehifk?hl=en) : )
 
-### Blog Masters License
-Blog Masters is licensed under the [MIT license](https://opensource.org/licenses/MIT). Enjoy!
+### [TabNote](https://chrome.google.com/webstore/detail/tabnote/geahanokafgmnleflfpekpmnkceehifk?hl=en) License
+[TabNote](https://chrome.google.com/webstore/detail/tabnote/geahanokafgmnleflfpekpmnkceehifk?hl=en) is licensed under the [MIT license](https://opensource.org/licenses/MIT). Enjoy!
