@@ -7,8 +7,14 @@
 ---
 
 From now on for notepad, you don't have to go anywhere, convert your browser into your favorite notepad. Customize it as you like it.
+
+TabNote is a free and offline chrome extension which can use to take notes while the you are browsing the web. 🤗
  
 #### TabNote is **free** and **offline** 😍 😻
+
+🤖 You can customize your TabNote by setting up font size, font color, font family, background color, spell checker etc.
+
+You can use TabNote as a clipboard or a notepad. Purpose of TabNote is productivity. You don't have to wait until for notepad, TabNote is a single click away. 👼
 
 
 > How to customize your TabNote?
