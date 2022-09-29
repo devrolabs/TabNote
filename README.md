@@ -1,4 +1,4 @@
-# [TabNote](https://tabnote.co) 📄✏️
+# TabNote 📄✏️
 
 ### use your Browser as your Notepad, take notes while you are browsing
 
@@ -22,7 +22,7 @@ You can use TabNote as a clipboard or a notepad. Purpose of TabNote is productiv
 > - you will see customizable options
 
 
-#### Take notes while you are browsing with [TabNote](https://tabnote.co) 😊
+#### Take notes while you are browsing with TabNote 😊
 
 ### TabNote License
 TabNote is licensed under the [MIT license](https://opensource.org/licenses/MIT). Enjoy!
